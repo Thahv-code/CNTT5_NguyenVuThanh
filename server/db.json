@@ -9,6 +9,24 @@
       "id": "2",
       "email": "user@example.com",
       "password": "abcdef"
+    },
+    {
+      "id": "b0e8",
+      "firstName": "a",
+      "lastName": "a",
+      "email": "a@gmail.com",
+      "password": "qqqqqqqq",
+      "confirmPassword": "qqqqqqqq",
+      "agreement": true
+    },
+    {
+      "id": "992e",
+      "firstName": "b",
+      "lastName": "c",
+      "email": "ab@gmail.com",
+      "password": "11111111",
+      "confirmPassword": "11111111",
+      "agreement": true
     }
   ],
   "categories": [
@@ -24,27 +42,11 @@
     },
     {
       "id": "DM003",
-      "name": "Máu tính",
-      "status": "active"
-    },
-    {
-      "id": "DM004",
       "name": "Chuột",
       "status": "active"
     }
   ],
   "products": [
-    {
-      "id": "SP001",
-      "name": "Iphone 12 Pro",
-      "categoryId": "DM001",
-      "price": 12000000,
-      "quantity": 10,
-      "discount": 0,
-      "image": "https://images.unsplash.com/photo-1603921326210-6edd2d60ca68?w=400",
-      "description": "iPhone 12 Pro với camera chuyên nghiệp",
-      "status": "active"
-    },
     {
       "id": "SP002",
       "name": "Samsung Galaxy X20",
